@@ -18,12 +18,17 @@
 }
 
 .JokeList-title {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 2rem;
   color: white;
   font-weight: 300;
   letter-spacing: 0.6rem;
 }
+
+.JokeList img {
+ margin: 2.5rem;
+}
+
 .JokeList-title span {
   font-weight: 700;
   letter-spacing: 0;
@@ -55,7 +60,7 @@
 }
 
 .JokeList-getmore {
-  font-size: 1.5rem;
+  font-size: 1rem;
   width: 50%;
   border-radius: 2rem;
   padding: 1rem 2rem;
